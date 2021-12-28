@@ -1,29 +1,29 @@
 {
     "download": {
         "mods": {
-            "BetterThirdPerson.jar": "https://store1.gofile.io/download/f0e60caf-99f9-4260-a952-89d191a91a17/BetterThirdPerson.jar",
-            "ChunkAnimator.jar": "https://store1.gofile.io/download/ecf0754e-9b9a-414d-a83f-cc416a165245/ChunkAnimator.jar",
-            "CustomSkinLoader.jar": "https://store1.gofile.io/download/ecb37e79-5a77-4dbe-9e4a-de5a656f1f61/CustomSkinLoader.jar",
-            "Dynmap.jar": "https://store1.gofile.io/download/a21789ff-05c6-47be-9893-44d7b0a28e16/Dynmap.jar",
-            "ImmersiveEngineering.jar": "https://store1.gofile.io/download/1ee747d9-b7f2-4ab4-aa63-a6f6f01ebc11/ImmersiveEngineering.jar",
-            "JEI.jar": "https://store1.gofile.io/download/130ca65c-5b55-40b5-89b2-503a60783e20/JEI.jar",
-            "MyServerIsCompatible.jar": "https://store4.gofile.io/download/27379c2b-598f-4364-9e82-2bfe2738ff42/MyServerIsCompatible.jar",
-            "NotEnoughAnimations.jar": "https://store1.gofile.io/download/bf218e56-bd37-498f-83f9-4535d742aa55/NotEnoughAnimations.jar",
-            "OptiFine.jar": "https://store1.gofile.io/download/a05b8e2c-b1eb-4f62-9f5c-4333f10d3ee1/OptiFine.jar",
-            "ShoulderSurfing.jar": "https://store1.gofile.io/download/7f7b34d0-9c1f-4855-be4f-116df8e730eb/ShoulderSurfing.jar",
-            "SimpleLogin.jar": "https://store1.gofile.io/download/5a114101-8c18-4018-a02d-26e06f504a97/SimpleLogin.jar",
-            "Spark.jar": "https://store1.gofile.io/download/fe6bdfcb-0ab7-4578-a3c8-0649add6e3c9/Spark.jar",
-            "VoiceChat.jar": "https://store1.gofile.io/download/d8561eb1-d8a8-4752-9ac5-4b4db2485126/VoiceChat.jar"
+            "BetterThirdPerson.jar": "https://khudyakov1.github.io/mods_installer/files/BetterThirdPerson.jar",
+            "ChunkAnimator.jar": "https://khudyakov1.github.io/mods_installer/files/ChunkAnimator.jar",
+            "CustomSkinLoader.jar": "https://khudyakov1.github.io/mods_installer/files/CustomSkinLoader.jar",
+            "Dynmap.jar": "https://khudyakov1.github.io/mods_installer/files/Dynmap.jar",
+            "ImmersiveEngineering.jar": "https://khudyakov1.github.io/mods_installer/files/ImmersiveEngineering.jar",
+            "JEI.jar": "https://khudyakov1.github.io/mods_installer/files/JEI.jar",
+            "MyServerIsCompatible.jar": "https://khudyakov1.github.io/mods_installer/files/MyServerIsCompatible.jar",
+            "NotEnoughAnimations.jar": "https://khudyakov1.github.io/mods_installer/files/NotEnoughAnimations.jar",
+            "OptiFine.jar": "https://khudyakov1.github.io/mods_installer/files/OptiFine.jar",
+            "ShoulderSurfing.jar": "https://khudyakov1.github.io/mods_installer/files/ShoulderSurfing.jar",
+            "SimpleLogin.jar": "https://khudyakov1.github.io/mods_installer/files/SimpleLogin.jar",
+            "Spark.jar": "https://khudyakov1.github.io/mods_installer/files/Spark.jar",
+            "VoiceChat.jar": "https://khudyakov1.github.io/mods_installer/files/VoiceChat.jar"
         },
         "versions\\1.18.1-forge-39.0.8": {
-            "1.18.1-forge-39.0.8.json" : "https://store2.gofile.io/download/851afe44-2b20-4682-bfe0-531e02330539/1.18.1-forge-39.0.8.json",
-            "1.18.1-forge-39.0.8.jar" : "https://store2.gofile.io/download/ec45f986-d29b-4485-932c-1ccfabc8ff40/1.18.1-forge-39.0.8.jar"
+            "1.18.1-forge-39.0.8.json" : "https://khudyakov1.github.io/mods_installer/files/1.18.1-forge-39.0.8.json",
+            "1.18.1-forge-39.0.8.jar" : "https://khudyakov1.github.io/mods_installer/files/1.18.1-forge-39.0.8.jar"
         },
         "config": {
-            "fml.toml" : "https://store1.gofile.io/download/96767eab-f287-4588-8946-22af092c4064/fml.toml",
-            "forge-client.toml" : "https://store1.gofile.io/download/868c0779-8438-487e-87c3-fe3d4a2f9f51/forge-client.toml",
-            "forge-common.toml" : "https://store1.gofile.io/download/378f13a6-0f65-4e3a-bf3a-0758a6f25445/forge-common.toml",
-            "shouldersurfing.toml" : "https://store1.gofile.io/download/a4e07760-3c91-4354-84be-7938660b6242/shouldersurfing.toml"
+            "fml.toml" : "https://khudyakov1.github.io/mods_installer/files/fml.toml",
+            "forge-client.toml" : "https://khudyakov1.github.io/mods_installer/files/forge-client.toml",
+            "forge-common.toml" : "https://khudyakov1.github.io/mods_installer/files/forge-common.toml",
+            "shouldersurfing.toml" : "https://khudyakov1.github.io/mods_installer/files/shouldersurfing.toml"
         }
     },
     "appendJson": {}
