@@ -13,7 +13,8 @@
             "ShoulderSurfing.jar": "https://khudyakov1.github.io/mods_installer/files/ShoulderSurfing.jar",
             "SimpleLogin.jar": "https://khudyakov1.github.io/mods_installer/files/SimpleLogin.jar",
             "Spark.jar": "https://khudyakov1.github.io/mods_installer/files/Spark.jar",
-            "VoiceChat.jar": "https://khudyakov1.github.io/mods_installer/files/VoiceChat.jar"
+            "VoiceChat.jar": "https://khudyakov1.github.io/mods_installer/files/VoiceChat.jar",
+            "SoundPhysics.jar": "https://khudyakov1.github.io/mods_installer/files/SoundPhysics.jar"
         },
         "versions\\1.18.1-forge-39.0.8": {
             "1.18.1-forge-39.0.8.json": "https://khudyakov1.github.io/mods_installer/files/1.18.1-forge-39.0.8.json",
