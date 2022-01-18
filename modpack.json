@@ -18,7 +18,11 @@
             "Tumbleweed.jar": "https://khudyakov1.github.io/mods_installer/files/Tumbleweed.jar",
             "UsefulHats.jar": "https://khudyakov1.github.io/mods_installer/files/UsefulHats.jar",
             "CreativeCore.jar": "https://khudyakov1.github.io/mods_installer/files/CreativeCore.jar",
-            "AmbientSounds.jar": "https://khudyakov1.github.io/mods_installer/files/AmbientSounds.jar"
+            "AmbientSounds.jar": "https://khudyakov1.github.io/mods_installer/files/AmbientSounds.jar",
+            "FallingLeaves.jar": "https://khudyakov1.github.io/mods_installer/files/FallingLeaves.jar",
+            "Farsight.jar": "https://khudyakov1.github.io/mods_installer/files/Farsight.jar",
+            "PhysicsMod.jar": "https://khudyakov1.github.io/mods_installer/files/PhysicsMod.jar",
+            "XaerosWorldMap.jar": "https://khudyakov1.github.io/mods_installer/files/XaerosWorldMap.jar"
         },
         "CustomSkinLoader": {
             "CustomSkinLoader.json" : "https://khudyakov1.github.io/mods_installer/files/CustomSkinLoader.json"
@@ -27,7 +31,8 @@
             "fml.toml": "https://khudyakov1.github.io/mods_installer/files/fml.toml",
             "forge-client.toml": "https://khudyakov1.github.io/mods_installer/files/forge-client.toml",
             "forge-common.toml": "https://khudyakov1.github.io/mods_installer/files/forge-common.toml",
-            "shouldersurfing.toml": "https://khudyakov1.github.io/mods_installer/files/shouldersurfing.toml"
+            "shouldersurfing.toml": "https://khudyakov1.github.io/mods_installer/files/shouldersurfing.toml",
+            "physicsmod/physics_client_config.json": "https://khudyakov1.github.io/mods_installer/files/physics_client_config.json"
         }
     },
     "mergeJSON": {
